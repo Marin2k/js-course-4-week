@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+      "target": "ES5",
+      "module": "commonjs",
+      "outDir": "./dist",      // Компилированные файлы JavaScript будут помещаться в папку "dist"
+      "rootDir": "./src",      // Исходные файлы TypeScript должны находиться в папке "src"
+      "strict": true           // Включаем строгую проверку TypeScript
+    }
+  }
+  
